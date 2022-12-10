@@ -1,0 +1,1 @@
+let car = new Avto("Lada", 2005, 2000000)
